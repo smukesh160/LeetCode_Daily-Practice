@@ -19,6 +19,7 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0011-container-with-most-water) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,17 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0011-container-with-most-water) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
