@@ -41,4 +41,8 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
